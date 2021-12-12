@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(175, 188, 216);
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+h1 {
+    color: rgb(126, 33, 52);
+
+}
+h2, h3, h4, h5, h6{
+
+    color: darkgoldenrod;
+}
+
+.nav{
+    
+    border: 2px solid ; border-color:darkgoldenrod;
+    padding: 20px;
+    text-align: center;
+}
+
